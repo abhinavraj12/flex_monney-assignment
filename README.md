@@ -1,3 +1,20 @@
+# FlexMoney_Assignment
+
+- I have used spring boot to creat REST API.
+- I have used MySQL to store data.
+- I have used postman to check REST API.
+- I have used React JS to develop frontend.
+
+## ER DIAGRAM
+
+![YOGA_ER_DIAGRAM](https://user-images.githubusercontent.com/98227153/207326580-8052898e-5ab2-436c-8cc4-92df9cd4aace.png)
+
+
+## FRONTEND
+
+![Screenshot (50)](https://user-images.githubusercontent.com/98227153/207326643-ceb7e516-7086-40bb-88b6-89f84285240b.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
