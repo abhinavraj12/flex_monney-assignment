@@ -1,0 +1,76 @@
+*{
+    font-family: 'Nunito', sans-serif;
+}
+.yoga__registration-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin-top: 60px;
+    /* background: rgb(160, 239, 160);   */
+    
+}
+
+.yoga__registration-container_right {
+    margin-right: 10px;
+}
+
+.yoga__registration-container_right img {
+    height: 500px;
+    width: 100%;
+}
+
+.yoga__registration-container_left {
+    background: rgb(183, 229, 191);
+    margin-top: -32px;
+    padding: 3rem;
+    border-radius: 15px;
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+    
+}
+
+.yoga__registration-container_left h1 {
+    text-align: center;
+
+    font-weight: 700;
+    border-bottom: 4px solid rgb(21, 183, 7);
+    
+}
+
+.form-group {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.form-group:first-child{
+    margin-top: 2rem;
+}
+.form-group input,
+.form-control {
+    width: 20rem;
+    outline: none;
+    padding: 0.4rem;
+    margin-left: 10px;
+    border-radius: 0.5rem;
+    box-shadow: rgb(204, 219, 232) 3px 3px 6px 0px inset, rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;
+
+    border: #fff;
+
+}
+
+
+.btn {        
+    background: rgb(39, 155, 31);
+    margin-left: 16.3rem;
+    padding: 0.5rem;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+    border: none;
+    color: #fff;
+    font-weight: 200;
+    border-radius: 10px;
+}
+.btn:hover{
+    color: #fff;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px -50px 36px -28px inset;
+}
